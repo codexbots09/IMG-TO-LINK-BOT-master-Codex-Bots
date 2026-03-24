@@ -187,10 +187,12 @@ Logs upload to channel + DB
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=⭐+Star+the+repo+if+you+found+it+useful!;🍴+Fork+it+to+build+your+own!;❤️+Don't+copy+without+credit!" alt="Footer Animation" />
-
-<br>
-
 > ⚠️ **Don't copy or redistribute without proper credit!**
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=false&width=600&height=50&lines=⭐+Star+the+repo+if+you+found+it+useful!;🍴+Fork+it+and+build+your+own!;❤️+Don't+copy+without+giving+credit!" alt="Footer Typing Animation" />
+</p>
