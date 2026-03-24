@@ -80,7 +80,7 @@ async def start(client: Client, message: Message):
     btn = [
         [
             InlineKeyboardButton("📢 Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/CodeVoultX_Bots"),
-            InlineKeyboardButton("Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/akaza7902")
+            InlineKeyboardButton("Dᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/CodeVoultX_Bots")
         ],
         [
             InlineKeyboardButton("➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ", url=f"https://t.me/{client.me.username}?startgroup=true")
